@@ -1,0 +1,26 @@
+body{
+	font-family: tahoma;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+a: visited {
+	color: red;
+	}
+a:active {
+	background-color: red;
+	}
+a:hover {
+	color: orange;
+	font-style: italic;
+	}
+h2{
+	font-weight: bold;
+}
+h4{
+	text-align: justify;
+}
+.video{
+	text-align: center;
+}
