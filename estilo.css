@@ -1,12 +1,13 @@
 body{
+	background-color: grey;
 	font-family: tahoma;
 	margin-top: 50px;
 	margin-bottom: 50px;
 	margin-left: 40px;
-	margin-right: 40px;
+	margin-right: 350px;
 }
 a: visited {
-	color: red;
+	color: blue;
 	}
 a:active {
 	background-color: red;
@@ -23,4 +24,16 @@ h4{
 }
 .video{
 	text-align: center;
+}
+.fonteh4{
+	font-weight: bold;
+}
+.contatook{
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
+.form{
+	font-weight: bold;
+	text-align: justify;
 }
